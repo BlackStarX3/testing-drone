@@ -9,3 +9,7 @@ steps:
   commands:
   - ls -l
   - cat README.md
+  
+trigger:
+  branch:
+  - master
