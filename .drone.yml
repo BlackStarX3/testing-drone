@@ -9,6 +9,7 @@ steps:
   commands:
   - ls -l
   - cat README.md
+  - whoami
   
 trigger:
   branch:
